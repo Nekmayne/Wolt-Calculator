@@ -1,5 +1,9 @@
 # Wolt-Calculator
 
+## Technologies
+
+I used Vite to setup the project. Project was made using Typescript and Tailwind.
+
 ## How to run
 
 Run `npm install` and `npm run dev`!
